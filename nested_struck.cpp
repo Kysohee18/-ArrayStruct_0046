@@ -13,3 +13,8 @@ struct Mahasiswa
     string nim;
     DetailAlamat alamat;
 };
+int main()
+{
+    // Membuat object struct dalam array
+    Mahasiswa mhs[2];
+}
