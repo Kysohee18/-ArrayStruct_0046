@@ -15,10 +15,7 @@ struct Mahasiswa
 };
 
 Mahasiswa mhs[2]; // Array untuk menyimpan 2 data mahasiswa
-Baik, berikut adalah sambungan kode yang tidak menggunakan library atau namespace dan dibagi menjadi dua bagian commit:
 
-Commit 1: Define Structures and Array
-Tambahkan definisi untuk struct DetailAlamat dan Mahasiswa, serta deklarasikan array Mahasiswa.
 struct DetailAlamat
 {
     string kota;
@@ -37,7 +34,6 @@ Mahasiswa mhs[2]; // Array untuk menyimpan 2 data mahasiswa
 
 
 Commit 2: Input and Display Data
-Tambahkan logika untuk mengambil input data dari pengguna dan menampilkan data menggunakan perulangan.
 int main()
 {
     // Mengambil input data dari pengguna
