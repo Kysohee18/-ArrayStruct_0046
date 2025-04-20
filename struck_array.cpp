@@ -7,3 +7,7 @@ struct Mahasiswa
     string nim;
     string alamat;
 };
+int main()
+{
+    // Membuat object struct dalam array
+    Mahasiswa mhs[4];
